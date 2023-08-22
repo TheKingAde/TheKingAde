@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TheKingAde
 - 👀 I’m interested in SOFTWARES
-- 🌱 I’m currently learning SOFTWARE ENGINEERING
-- 💞️ I’m looking to collaborate on VARIOUS PROJECTS
-- 📫 How to reach me @jeffersonmeffun@gmail.cm
+- 🌱 I’m currently a ALX software engineering student
+- 💞️ I’m looking to collaborate on Still trying to figure this part out
+- 📫 How to reach me @TheKing-Ade@outlook.com
 
 <!---
 TheKingAde/TheKingAde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
