@@ -1,4 +1,5 @@
-![R](https://github.com/TheKingAde/TheKingAde/assets/128775717/f4093e75-b0da-49a4-adfd-0edabb02920c)
+![Bot Dev Banner](wp9109485.png)
+
 
 # 👋 Call me **Bot Dev**!
 
