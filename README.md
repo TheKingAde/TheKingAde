@@ -2,7 +2,7 @@
 
 
 # 👋 Call me **Bot Dev**!
-I'm passionate about building bots/automation across various domains — from simple task automation to crypto bots, trading bots, Telegram bots, chatbots, and AI-powered tools.
+I'm passionate about automation, artificial intelligence, and their application across various fields — from everyday task automation to more advanced areas like blockchain, trading systems, chatbots, and other AI-powered tools.
 
 Always open to collaboration and new challenges!
 
