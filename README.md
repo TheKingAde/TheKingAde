@@ -2,10 +2,9 @@
 
 
 # 👋 Call me **Bot Dev**!
+I'm passionate about building bots/automation across various domains — from simple task automation to crypto bots, trading bots, Telegram bots, chatbots, and AI-powered tools.
 
-As the name implies, I'm passionate about building bots/automation across various domains — from simple task automation to crypto bots, trading bots, Telegram bots, chatbots, and AI-powered tools.
-
-I'm always open to collaboration and new challenges!
+Always open to collaboration and new challenges!
 
 ## 📫 Reach Me  
 - 📧 Email: [meffunadegoke@gmail.com](mailto:meffunadegoke@gmail.com)  
