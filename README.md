@@ -2,12 +2,12 @@
 
 
 # 👋 Call me **Bot Dev**!
-I'm passionate about automation, artificial intelligence, and their application across various fields — from everyday task automation to more advanced areas like blockchain, trading systems, chatbots, and other AI-powered tools.
+I'm passionate about automation, artificial intelligence, and their application across various fields — from everyday task automation to more advanced areas.
 
 Always open to collaboration and new challenges!
 
 ## 📫 Reach Me  
-- 📧 Email: [meffunadegoke@gmail.com](mailto:meffunadegoke@gmail.com)  
+- 📧 Email: [botdev1@icloud.com](mailto:botdev1@icloud.com)  
 - 🐦 X (Twitter): [@kingade_1](https://x.com/kingade_1)
 
 <!---
